@@ -1,0 +1,3 @@
+builds/*
+*.o
+__pycache__
