@@ -2,6 +2,8 @@
 
 December Stuart | Sal Choueib
 
+![Demo Figure](visualize-replay/rendered-figures/caldera-sat18-p01_statespace_3d.jpg)
+
 ## Structure
 
 `fast-downward-22.12/` contains a modified version of the fast-downward planning 
