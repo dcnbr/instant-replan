@@ -1,7 +1,5 @@
 # Visualizing fast-downward, in space!
 
-December Stuart | Sal Choueib
-
 [Using the Fast-Downward planner](https://github.com/aibasel/downward)
 and
 [public planning settings](https://github.com/AI-Planning/classical-domains)
